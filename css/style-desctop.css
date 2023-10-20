@@ -1,0 +1,68 @@
+@media screen and (min-width:1188px) {
+    .watch {}
+
+    .container {}
+
+    .wrapper {}
+
+    .wrapper-text {}
+
+    .watch-span {}
+
+    .watch-title {
+        font-size: 250px;
+    }
+
+    .watch-text {
+        font-size: 32px;
+    }
+
+    .watch-link {
+        font-size: 32px;
+        padding: 26px 74px;
+    }
+
+    .watch-price {
+        font-size: 32px;
+        padding: 26px 28px;
+    }
+
+    .watch-img {}
+
+    .models {}
+
+    .models-subtitle {}
+
+    .models-title {
+        font-size: 72px;
+        margin-bottom: 84px;
+    }
+
+    .models-list {}
+
+    .models-list-item {}
+
+
+
+
+    .models-list-title {
+        margin-bottom: 17px;
+        font-size: 32px;
+    }
+
+    .models-list-text {
+        font-size: 32px;
+        margin-bottom: 85px;
+    }
+
+    .description {
+        padding-bottom: 142px;
+    }
+
+    .description-title {}
+
+    .description-text {
+        font-size: 24px;
+    }
+
+}

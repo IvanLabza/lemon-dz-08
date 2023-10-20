@@ -1,0 +1,68 @@
+@media screen and (min-width:768px) {
+    .watch {
+        text-align: left;
+    }
+
+    .container {}
+
+    .wrapper {
+        flex-direction: row;
+    }
+
+    .wrapper-text {}
+
+    .watch-span {}
+
+    .watch-title {
+        font-size: 125px;
+        margin-top: 50px;
+    }
+
+    .watch-text {}
+
+    .watch-link {}
+
+    .watch-price {}
+
+    .watch-img {
+        max-width: 408px;
+    }
+
+    .models {}
+
+    .models-subtitle {}
+
+    .models-title {}
+
+    .models-list {}
+
+    .models-list-img {
+        max-width: 268px;
+        margin-bottom: 67px;
+        padding: 110px 71px;
+    }
+
+    .models-list-img.img {
+        max-width: 500px;
+        padding: 65px 2px;
+    }
+
+    .models-list-item {
+        max-width: 450px;
+    }
+
+    .models-list-img {}
+
+    .models-list-title {}
+
+    .models-list-text {}
+
+    .description {}
+
+    .description-title {}
+
+    .description-text {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
